@@ -2,8 +2,7 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.Voyage" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/notch</item>
     </style>
-
     <style name="Theme.Voyage" parent="Base.Theme.Voyage" />
 </resources>
